@@ -1,4 +1,4 @@
-# Laravel ToDo App
+# Laravel Saekopi Store
 
 This is a simple ToDo app with multiple user support.
 
